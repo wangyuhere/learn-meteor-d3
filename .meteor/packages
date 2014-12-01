@@ -10,4 +10,5 @@ coffeescript
 d3js:d3
 iron:router
 fourseven:scss
+reactive-var
 

@@ -5,4 +5,18 @@ svg {
       stroke: blue;
     }
   }
+
+  circle {
+    &:hover {
+      fill: red;
+    }
+  }
+}
+
+#tooltip {
+  position: absolute;
+
+  &.hidden {
+    display: none;
+  }
 }
